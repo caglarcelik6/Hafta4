@@ -1,0 +1,11 @@
+body {
+    padding-top: 54px;
+    background-color: #fff;;
+  }
+  
+  .form-control::placeholder {
+    background: url('/assets/search-solid.svg') no-repeat;
+    background-size: 16px 16px;
+    padding-left: 20px;
+  }
+  
