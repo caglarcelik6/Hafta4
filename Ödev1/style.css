@@ -1,0 +1,36 @@
+.navbar-items{
+    color: bisque;
+}
+
+.profil-resim{
+    height: 120px;
+    width: 120px;
+    border-radius: 100%;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.profil-resim-box{
+    text-align: center;
+}
+
+.jumbotron{
+    height: 400px;
+    width: 800px;
+    margin: auto;
+}
+
+.center-items{
+    margin-left: 60px;
+    margin-bottom: 25px;
+}
+
+.footer-background{
+    background-color: black;
+}
+
+.posts{
+display: flex;
+justify-content: center;
+align-items: center;
+}
